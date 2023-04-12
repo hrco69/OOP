@@ -20,8 +20,8 @@ public:
 		cijena = c;		
 	}*/
 	friend double getCijena(Putnik p);
-	/*double getCijena(Putnik p) const {
-		return p.cijena;
+	/*double getCijena() const {
+		return cijena;
 	}*/
 };
 
