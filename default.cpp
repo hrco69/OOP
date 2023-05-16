@@ -5,7 +5,9 @@
 #include <string>
 #include <ctime>
 #include <iomanip>
-#include <memory.h>
+#include <memory>
+#include <map>
+#include <iterator>
 #define cahr char
 #define enld endl
 using namespace std;
